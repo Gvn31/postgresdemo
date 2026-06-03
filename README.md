@@ -1,1 +1,3 @@
 # postgresdemo
+
+# conda activate venv/
